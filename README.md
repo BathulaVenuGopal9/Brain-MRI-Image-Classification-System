@@ -1,4 +1,4 @@
-# Brain-MRI-Image-Classification-System
+# Brain-Tumor-MRI-Image-Classification-System
 
 ## 1. Executive Summary
 
